@@ -1,7 +1,7 @@
 # Github Explorer
 
 Aplicação feita em React e Typescript para pesquisar bibliotecas no Github.
-Aplicação feita no modulo do Bootcamp da Rockeseat.
+Aplicação feita no modulo do Bootcamp da Rocketseat.
 
 ![Screenshot](gitHub.png)
 
